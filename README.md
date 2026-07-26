@@ -266,29 +266,17 @@ Score(D,Q) = Σ IDF(qi) × [f(qi,D) × (k1+1)] / [f(qi,D) + k1×(1-b+b×|D|/avgd
 
 ---
 
-## 👥 Team SAD Group
 
-| Member | Role | Contribution |
-|---|---|---|
-| **Shiv** | Hardware & Infrastructure | Pi setup, Bluetooth A2DP, Linux audio stack |
-| **Akshata** | AI & Backend | RAG pipeline, BM25, Groq LLM, knowledge base |
-| **Diksha** | Voice Interface | STT/TTS pipeline, state machine, integration |
 
 ---
 
-## 🏫 About the Department
 
-**Department of Computer Science & Engineering (IoT, Cyber Security including Blockchain Technology)**
-- Institution: Vishwakarma Institute of Technology, Pune
-- Location: Third Floor, B Building No. 2, VIT Kondhwa Campus
-- HOD: Prof. Dr. Priya M. Shelke — hodcseiotcsbt@vit.edu
-- Admissions: admissions@vit.edu | +91 7058432258
 
 ---
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under SAD group License.
 
 ---
 
